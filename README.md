@@ -2,7 +2,7 @@
 
 ## Description
 
-This packages downloads a file from a URL
+This packages downloads a file from a URL and generates a unique file name
 
 ## Usage
 
