@@ -1,6 +1,6 @@
 {
   "name": "@anietz/file_downloader",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "This packages downloads a file from a URL",
   "main": "index.js",
   "dependencies": {

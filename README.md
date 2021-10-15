@@ -7,5 +7,5 @@ This packages downloads a file from a URL
 ## Usage
 
 ```bash
-   npm install
+   npm install @anietz/file_downloader
 ```
